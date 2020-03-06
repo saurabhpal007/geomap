@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">geomap</string>
+    <string name="map_key" translatable="false">AIzaSyD0XRuVuA-sDT0SjauK91pK0NvbWxHYmWs</string>
+</resources>
